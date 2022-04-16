@@ -1,0 +1,17 @@
+{
+    "personalitizion": {
+        "user": {
+            "name": "Can"
+        }
+    },
+    "speechRecognition": {
+        "language": "tr_TR",
+        "speechGeneration": {
+            "language": "tr",
+            "tld": "com.tr",
+            "slow_talk": "false",
+            "debug_mode": "true",
+            "services": {}
+        }
+    }
+}
